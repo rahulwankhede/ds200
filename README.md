@@ -1,2 +1,5 @@
 # ds200
-Repository for DS 200: Research
+Repository for DS 200: Research Methods
+
+The data is in the folder data/ and is taken from https://data.gov.in/
+The plotting was done in a jupyter notebook (plotter.ipynb) whose python file can be found in plotter.py
